@@ -1,0 +1,147 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 540px;
+	 height: 177px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #logo 
+{ 
+	 left: 238px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 302px;
+	 height: 177px;
+	 z-index:1;
+} 
+
+ #c9c3125440d122b876dc 
+{ 
+	 left: 14px; 
+	 top: 102px; 
+	 position: absolute; 
+	 width: 19px;
+	 height: 21px;
+	 z-index:2;
+} 
+
+ #layer_54718 
+{ 
+	 left: 16px; 
+	 top: 77px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 22px;
+	 z-index:3;
+} 
+
+ #b326b5f8d23cd1e0f18d 
+{ 
+	 left: 15px; 
+	 top: 148px; 
+	 position: absolute; 
+	 width: 29px;
+	 height: 29px;
+	 z-index:4;
+} 
+
+ #Softwaresparalogstic 
+{ 
+	 left: 336px; 
+	 top: 114px; 
+	 position: absolute; 
+	 width: 179px;
+	 height: 19px;
+	 z-index:5;
+} 
+
+ #instagramiconenovo10 
+{ 
+	 left: 50px; 
+	 top: 148px; 
+	 position: absolute; 
+	 width: 29px;
+	 height: 29px;
+	 z-index:6;
+} 
+
+ #PopularSocialMedia22 
+{ 
+	 left: 87px; 
+	 top: 148px; 
+	 position: absolute; 
+	 width: 29px;
+	 height: 29px;
+	 z-index:7;
+} 
+
+ #layer_124015 
+{ 
+	 left: 124px; 
+	 top: 146px; 
+	 position: absolute; 
+	 width: 30px;
+	 height: 31px;
+	 z-index:8;
+} 
+
+ #LUANSANTIMBUONFIGLIO 
+{ 
+	 left: 16px; 
+	 top: 17px; 
+	 position: absolute; 
+	 width: 234px;
+	 height: 12px;
+	 z-index:9;
+} 
+
+ #CriaoeMarketing 
+{ 
+	 left: 16px; 
+	 top: 33px; 
+	 position: absolute; 
+	 width: 106px;
+	 height: 11px;
+	 z-index:10;
+} 
+
+ #luanbuonfigliordccom 
+{ 
+	 left: 16px; 
+	 top: 59px; 
+	 position: absolute; 
+	 width: 183px;
+	 height: 14px;
+	 z-index:11;
+} 
+
+ #layer_11944214961 
+{ 
+	 left: 33px; 
+	 top: 83px; 
+	 position: absolute; 
+	 width: 109px;
+	 height: 13px;
+	 z-index:12;
+} 
+
+ #xxxxxxxxxxx 
+{ 
+	 left: 33px; 
+	 top: 107px; 
+	 position: absolute; 
+	 width: 109px;
+	 height: 13px;
+	 z-index:13;
+} 
